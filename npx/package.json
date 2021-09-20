@@ -1,0 +1,19 @@
+{
+  "name": "@juju2307/card",
+  "version": "1.0.0",
+  "description": "Id card",
+  "main": "package.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juju2307/Node.git"
+  },
+  "author": "juju2307",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juju2307/Node/issues"
+  },
+  "homepage": "https://github.com/juju2307/Node#readme"
+}
