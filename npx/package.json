@@ -4,7 +4,8 @@
   "description": "Id card",
   "main": "package.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon card.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/juju2307/Node/issues"
   },
-  "homepage": "https://github.com/juju2307/Node#readme"
+  "homepage": "https://github.com/juju2307/Node#readme",
+  "dependencies": {
+    "boxen": "^5.1.2",
+    "chalk": "^4.1.2",
+    "clear": "^0.1.0",
+    "inquirer": "^8.1.5",
+    "open": "^8.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
 }
